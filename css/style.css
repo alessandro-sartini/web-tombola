@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
+
+h1{
+    font-family: "Gochi Hand", serif;
+    
+}
+.gochi-hand-regular {
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+
+.round{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #dee2e6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+row-10-circle{
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+
+body {
+    background-color: #23A494;
+  }
